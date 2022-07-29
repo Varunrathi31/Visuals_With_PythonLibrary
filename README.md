@@ -10,5 +10,3 @@ Here, I have used Gas price and FIFA dataset. Used this dataset to create visual
 ### Histogram
 ### Pie Chart
 ### Box and Whisker Chart
-
-![](Distribution Of Player Skills in FIFA.png)
